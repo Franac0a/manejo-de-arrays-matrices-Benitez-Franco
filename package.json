@@ -1,0 +1,24 @@
+{
+  "name": "manejo-de-arrays-matrices-benitez-franco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franac0a/manejo-de-arrays-matrices-Benitez-Franco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Franac0a/manejo-de-arrays-matrices-Benitez-Franco/issues"
+  },
+  "homepage": "https://github.com/Franac0a/manejo-de-arrays-matrices-Benitez-Franco#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
