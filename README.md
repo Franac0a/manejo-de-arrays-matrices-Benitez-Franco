@@ -21,7 +21,7 @@ No requiere instalación de librerías.
 
 Ejecutar:
 
-python main.py
+py main.py o python main.py dependendiendo de como este el alias en la computadora
 
 - Finalizar carga de datos
 
